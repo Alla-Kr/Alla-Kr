@@ -61,7 +61,7 @@ _______________________
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/alla_cravciuc)
-- [Linkedin](https://www.linkedin.com/in/alla-kravchuk-342616268/)
+- [Linkedin](https://www.linkedin.com/in/alla-cravciuc/)
 
 ---
 
