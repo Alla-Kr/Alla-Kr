@@ -18,6 +18,7 @@ With a great desire for self-development, I am ready to work and study responsib
 * Tools: Python, SQL
 - Hard skills: 
     * Data Preprocessing;
+    * EDA;
     * Data Analysis;
     * Machine Learning 
 - Soft skills:
@@ -28,7 +29,7 @@ With a great desire for self-development, I am ready to work and study responsib
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/alla_cravciuc)
-- [Linkedin](https://www.linkedin.com/in/alla-kravchuk-342616268/)
+- [Linkedin](www.linkedin.com/in/alla-cravciuc)
 
 languages: Ukrainian, Russian, English
 _______________________
@@ -51,6 +52,7 @@ _______________________
 - Инструменты: Python, SQL 
 - Hard skills: 
     * Data Preprocessing;
+    * EDA;
     * Data Analysis;
     * Machine Learning 
 - Soft skills:
